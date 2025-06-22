@@ -1,3 +1,3 @@
 # apnacollege-demo
 this is standalone profile
-author-ANSHUL GUPTA
+author-ANSHUL G
